@@ -1,6 +1,11 @@
 # Demo
 (https://vocal-cranachan-74e905.netlify.app/)
 
+## Stacks
+```
+React, Redux-Toolkit, TailwindCSS
+```
+
 ## Description
 
 - ****Spotify 2.0 Clone Music App****
